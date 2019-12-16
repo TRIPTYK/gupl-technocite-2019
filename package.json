@@ -10,10 +10,13 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-postcss": "^8.0.0"
+    "gulp-hb": "^8.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-uglify-es": "^2.0.0"
   },
   "dependencies": {
     "browser-sync": "^2.26.7",
+    "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
     "tailwindcss": "^1.1.4"
   }
